@@ -89,8 +89,6 @@
         "ai_gen_block_46a7ea5_bAGbUj": {
           "type": "ai_gen_block_46a7ea5",
           "settings": {
-            "image_mobile": "shopify://shop_images/2800_x_1000_px_1200_x_1600_px_2_.webp_2.webp",
-            "image_desktop": "shopify://shop_images/New_one_02.webp",
             "height_mobile": 600,
             "height_desktop": 600,
             "overlay_color": "#000000",
@@ -144,8 +142,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2800_x_1000_px_1.png",
-            "mobile_image": "shopify://shop_images/2800_x_1000_px_1200_x_1600_px.png",
             "content_max_width": 860,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -208,7 +204,6 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/617Xie9ePfL._AC_SL1500.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://products/fruit-drain-and-storage-basket-with-lid",
@@ -356,6 +351,9 @@
           "type": "ai_gen_block_1a13f16",
           "settings": {
             "section_title": "Shop by Category",
+            "title_font": "sans_serif_n4",
+            "title_background_color": "#ffd700",
+            "title_text_color": "#000000",
             "image_aspect_ratio": "square",
             "gap_mobile": 10,
             "gap_desktop": 24,
@@ -405,6 +403,59 @@
       },
       "block_order": [
         "ai_gen_block_1a13f16_wC6QQM"
+      ],
+      "settings": {}
+    },
+    "1764570217d822d599": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_4c28a55_7tE74P": {
+          "type": "ai_gen_block_4c28a55",
+          "settings": {
+            "section_title": "Featured Products",
+            "view_all_text": "View All",
+            "view_all_link": "",
+            "products_limit": 8,
+            "show_categories": true,
+            "collection_1": "all-products",
+            "collection_2": "all-products",
+            "collection_3": "",
+            "collection_4": "",
+            "background_color": "#ffffff",
+            "title_color": "#000000",
+            "title_size": 20,
+            "view_all_color": "#000000",
+            "category_bg": "#ffffff",
+            "category_text": "#666666",
+            "category_border": "#e0e0e0",
+            "category_radius": 0,
+            "category_active_bg": "#000000",
+            "category_active_text": "#ffffff",
+            "card_bg": "#ffffff",
+            "card_radius": 8,
+            "card_border_width": 1,
+            "card_border_color": "#E0E0E0",
+            "card_border_hover_color": "#CCCCCC",
+            "card_shadow_h": 0,
+            "card_shadow_v": 4,
+            "card_shadow_blur": 8,
+            "card_shadow_opacity": 0,
+            "type_color": "#999999",
+            "product_title_color": "#000000",
+            "price_color": "#000000",
+            "old_price_color": "#999999",
+            "new_badge_bg": "#4CAF50",
+            "new_badge_text": "#ffffff",
+            "discount_badge_bg": "#FF5252",
+            "discount_badge_text": "#ffffff",
+            "add_btn_bg": "#ffffff",
+            "add_btn_text": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_4c28a55_7tE74P"
       ],
       "settings": {}
     },
@@ -631,7 +682,6 @@
           "type": "collection",
           "settings": {
             "collection": "bestsellers",
-            "image": "shopify://shop_images/4fa86523b286a0d24e94c359afd80b07.png",
             "subheading": "",
             "title": "",
             "url": "shopify://collections/bestsellers",
@@ -646,7 +696,6 @@
           "type": "collection",
           "settings": {
             "collection": "home",
-            "image": "shopify://shop_images/home.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -661,7 +710,6 @@
           "type": "collection",
           "settings": {
             "collection": "kitchen",
-            "image": "shopify://shop_images/kitchen.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -766,8 +814,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Brand-02.png",
-        "mobile_image": "shopify://shop_images/Brand-02.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -822,8 +868,6 @@
       ],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/Untitled_2500_x_1200_px.png",
-        "mobile_image": "shopify://shop_images/Untitled_design_3.png",
         "title": "",
         "content": "",
         "button_text": "",
@@ -850,7 +894,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_cgo14ocgo14ocgo1.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "shopify://products/all-in-one-fruit-veggie-washer-storage-basket",
@@ -1359,6 +1402,7 @@
     "image-link-blocks",
     "1761717881f75057a2",
     "1762331971972f85e7",
+    "1764570217d822d599",
     "scrolling-text",
     "1762584449c48a09b9",
     "blocks_drTJfa",
