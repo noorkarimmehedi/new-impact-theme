@@ -997,7 +997,7 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "lg",
-        "video": "shopify://files/videos/1007(2).mov",
+        "video": null,
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
