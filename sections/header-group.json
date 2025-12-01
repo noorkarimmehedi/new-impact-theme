@@ -61,11 +61,10 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/bengal-mart-logo_02.svg",
         "logo_max_width": 105,
         "logo_mobile_max_width": 100,
-        "menu": "menu",
-        "sidebar_menu": "",
+        "menu": "",
+        "sidebar_menu": "main-menu-1",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
@@ -76,7 +75,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/bengal-mart-logo.svg",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
